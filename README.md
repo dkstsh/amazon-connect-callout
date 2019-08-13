@@ -1,6 +1,6 @@
 # amazon-connect-callout
 ## 1.about this sample
-this is a sample which use python code to make amazon connect to call out with self defined text. 
+This sample uses python code to call amazon connect, which can call out with aws polly's voice reading defined text. 
 
 ## 2.what is amazon connect?
 Amazon Connect is a self-service, cloud-based contact center service that makes it easy for any business to deliver better customer service at lower cost. You can find more info at this page [Amazon connect](https://aws.amazon.com/connect/).
