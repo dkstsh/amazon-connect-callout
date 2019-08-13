@@ -23,4 +23,4 @@ Amazon connect can call out to almost everyone. You only need configure a contac
 
 * If you run your code in local, please configure the AKSK of your aws account. If you run with lambda, please configure IAM role which can access amazon connect service. 
 
-#please reminder, replace the parameter with yours in connect.py
+# please reminder, replace the parameter with yours in connect.py
