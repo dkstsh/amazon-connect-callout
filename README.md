@@ -1,7 +1,7 @@
 # amazon-connect-callout
 ## 1.关于这个例子
 这个例子使用了python调用amazon connect服务拨打外部电话，向相关人员播放指定信息。整个例子架构如下：
-![架构](https://github.com/forhead/amazon-connect-callout/blob/master/images/connect-sample-0.png "架构"）
+![架构](https://github.com/forhead/amazon-connect-callout/blob/master/images/connect-sample-0.png "架构")
 
 ## 2.amazon connect服务是什么?
 Amazon Connect是一个云端托管的拨号中心。更多信息可以参考这个页面[Amazon connect](https://aws.amazon.com/connect/).
